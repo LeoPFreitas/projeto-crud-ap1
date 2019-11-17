@@ -1,0 +1,2 @@
+001	pilates-muito-chato	30	segunda-quarta-sexta	08:00-10:00-16:00-18:00	pedro+augusto-pietra+cortesine	120
+002	academia-pesadona	50	segunda-quinta-sabado	16:00-19:00	pedrao+o+brabro-julinha+da+sardinha	50
