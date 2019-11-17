@@ -26,5 +26,12 @@ Instale as dependências do projeto
 $ pip3 install --requirement requirements.txt
 ```
 
+## Utilização
+
+Inicialize o programa na pasta raiz
+```bash
+python3 src/crud.py
+```
+
 ## License
 [MIT](LICENSE.md)
